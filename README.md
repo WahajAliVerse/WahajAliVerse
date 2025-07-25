@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wahaj Ali 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Co-Founder+%40+Hashkoders;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/wahajAliVerse)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Co-Founder+%40+Hashkoders;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
 
 
 
@@ -83,12 +83,12 @@ We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and po
 
 ## GitHub Trophies 🏆
 
-[![trophy](https://github-trophies.vercel.app/?username=wahajAliVerse&theme=dark_lover&margin-w=4)]
+[![trophy](https://github-trophies.vercel.app/?username=WahajAliVerse&theme=dark_lover&margin-w=4)]
 
 
 
 
-[![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahajAliVerse&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/wahajAliVerse)
+[![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WahajAliVerse&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/WahajAliVerse)
 
 
 ## About Me
