@@ -22,7 +22,7 @@ We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and po
 &nbsp;&nbsp;&nbsp;&nbsp;• Enterprises building future-ready digital products
 
 📨 **Let’s build something game-changing:**  
-[wahaj0574@gmail.com](mailto:wahaj0574@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
+[wahaj0574@gmail.com](mailto:wahaj@hashkoders.com) | [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
 
 [![Visit Website](https://img.shields.io/badge/Visit_Hashkoders.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hashkoders.com/)
 
