@@ -97,7 +97,7 @@ We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and po
 - 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
 - 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
 - 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
-- 📬 **Let’s Connect:** wahaj0574@gmail.com
+- 📬 **Let’s Connect:** wahaj@hashkoders.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
 - 
 
