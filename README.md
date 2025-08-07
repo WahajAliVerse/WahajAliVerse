@@ -3,29 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Agentic+AI+Engineer+%26+Full+Stack+Developer;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
 
 
-## 🚀 About Hashkoders  
-![Hashkoders](https://img.shields.io/badge/Hashkoders-Innovation%20Driven-blueviolet?style=for-the-badge)
 
-**Hashkoders** is a modern tech company helping growth-stage startups and forward-thinking businesses launch & scale faster.  
-We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and powerful AI integrations — all tailored to your business goals.
-
-🔹 **What We Deliver:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• MVP to Scalable Products  
-&nbsp;&nbsp;&nbsp;&nbsp;• Intelligent AI Agents & Automation  
-&nbsp;&nbsp;&nbsp;&nbsp;• Modern Web/Mobile Architectures  
-&nbsp;&nbsp;&nbsp;&nbsp;• Cloud-native & Performance-first Development
-
-🔹 **Who We Work With:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Startups 🚀  
-&nbsp;&nbsp;&nbsp;&nbsp;• Tech-enabled SMBs  
-&nbsp;&nbsp;&nbsp;&nbsp;• Enterprises building future-ready digital products
-
-📨 **Let’s build something game-changing:**  
-[wahaj0574@gmail.com](mailto:wahaj0574@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
-
-[![Visit Website](https://img.shields.io/badge/Visit_Hashkoders.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hashkoders.com/)
-
----
 
 ## ⚒️ Technologies & Tools
 
@@ -93,7 +71,7 @@ We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and po
 ## About Me
 - 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI, LangChain, openAIAgentsSDK, Robotics, CrewAI
 - 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Performance
-- 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
+- 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, OpenAIAgents(SDK), Langchain, Langraph 
 - 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
 - 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
 - 📬 **Let’s Connect:** wahaj0574@gmail.com
