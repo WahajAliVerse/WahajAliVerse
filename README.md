@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Wahaj Ali 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Co-Founder+%40+Hashkoders;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Agentic+AI+Engineer+%26+Full+Stack+Developer;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
 
 
 ## 🚀 About Hashkoders  
@@ -22,7 +21,7 @@ We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and po
 &nbsp;&nbsp;&nbsp;&nbsp;• Enterprises building future-ready digital products
 
 📨 **Let’s build something game-changing:**  
-[wahaj@hashkoders.com](mailto:wahaj@hashkoders.com) | [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
+[wahaj0574@gmail.com](mailto:wahaj0574@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
 
 [![Visit Website](https://img.shields.io/badge/Visit_Hashkoders.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hashkoders.com/)
 
@@ -97,7 +96,7 @@ We specialize in full-stack SaaS platforms, blazing-fast web/mobile apps, and po
 - 🛠️ **Core Skills:** TypeScript, Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Fastify, FastAPI, Python, AI Agents
 - 🤝 **Open for Collaboration:** Fullstack SaaS products, AI integrations, UI/UX revamps , Web/App revamps
 - 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
-- 📬 **Let’s Connect:** wahaj@hashkoders.com
+- 📬 **Let’s Connect:** wahaj0574@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
 - 
 
