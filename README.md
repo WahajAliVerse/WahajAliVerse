@@ -3,53 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Agentic+AI+Engineer+%26+Full+Stack+Developer;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
 
 
-
-
-## ⚒️ Technologies & Tools
-
-### 🧠 Programming Languages
-| | |
-|---|---|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | |
-
----
-
-### ⚙️ Frontend Frameworks & Build Tools
-| | |
-|---|---|
-| ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) | |
-
----
-
-### 🎨 Styling & UI Libraries
-| | |
-|---|---|
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![ShadCN](https://img.shields.io/badge/ShadCN_UI-121212?logo=shadcnui&logoColor=white) |
-| ![NextUI](https://img.shields.io/badge/NextUI-000000?logo=vercel&logoColor=white) | ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white) |
-| ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&logoColor=white) | |
-
-
-
-| State Management Tools                     | Backend / API Frameworks                                                             |
-| ------------------------------------------ | ------------------------------------------------------------------------------------- |
-| ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
-| ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white)           | ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)   |
-| ![Context API](https://img.shields.io/badge/Context_API-0078D7?logo=react&logoColor=white)     | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)   |
-|                                                | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)     |
-
----
-
-| 🧠 AI Tools & Libraries                         | 🧪 Dev Tools & Testing                                                                  |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)     | ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) |
-| ![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?logo=openai&logoColor=white)         | ![Pytest](https://img.shields.io/badge/Pytest-3776AB?logo=python&logoColor=white)         |
-| ![CrewAI](https://img.shields.io/badge/CrewAI-000?logo=github&logoColor=white)                  | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)      |                                                                                           |
-| ![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI_Agent_SDK-333?logo=openai&logoColor=white) |                                                                                           |
-
-
 ## 📊 GitHub Stats
 
 ![Wahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahajAliVerse&show_icons=true&theme=radical)
