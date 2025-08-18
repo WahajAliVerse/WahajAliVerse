@@ -21,6 +21,8 @@
 [![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WahajAliVerse&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/WahajAliVerse)
 
 
+
+
 ## About Me
 - 🌱 **Currently Exploring:** Python, AI Agents, Agentic AI, Django, Node.js, Fastify, FastAPI, LangChain, openAIAgentsSDK, Robotics, CrewAI
 - 🧠 **Interests:** Fullstack Development, AI-Enhanced Apps, Interactive UI/UX, Web Performance, App Performance
@@ -29,16 +31,22 @@
 - 💼 **Available for:** Freelance or contract-based frontend/fullstack development AI Agents AI Automation
 - 📬 **Let’s Connect:** wahaj0574@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wahaj-ali-b3b7a72b5/)
-- 
+ 
+
+
 
 ## ✨ Fun Fact
 
-I turn ☕ coffee into code → 💻 and ideas into products → 🚀.  
+I turn ☕ coffee into code → 💻 and ideas into products → 🚀
 **If it's innovative, I'm already building it.**
 
 ---
 
 > ⚡ Let’s build something future-ready, real, and remarkable together.
+
+
+
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
