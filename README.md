@@ -6,7 +6,7 @@
 
 ![Wahaj's GitHub stats](https://github-stats-wahaj.vercel.app/api?username=wahajAliVerse&count_private=true&theme=radical&show_icons=true&v=1)
 
-![Top Langs](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api/top-langs/?username=wahajAliVerse&layout=compact&theme=radical)
+![Top Langs](https://github-stats-wahaj.vercel.app/api/top-langs/?username=wahajAliVerse&layout=compact&theme=radical&count_private=true&v=1)
 
 
 ---
