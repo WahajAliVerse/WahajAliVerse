@@ -1,11 +1,12 @@
 name: GitHub Metrics
 
 on:
-  # Roz subah 6 baje run hoga
   schedule: 
     - cron: "0 6 * * *"
-  # Jab bhi manually run karna ho
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,16 +15,12 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token with repo and user permissions
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Basic config
-          user: WahajAliVerse          # <-- apna GitHub username dalna
+          user: WahajAliVerse
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
 
-          # Plugins enable karna
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
