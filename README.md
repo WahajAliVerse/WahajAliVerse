@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats
 
-![Wahaj's GitHub stats](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api?username=wahajAliVerse&count_private=true&theme=radical&show_icons=true)
+![Wahaj's GitHub stats]([https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api?username=wahajAliVerse&count_private=true&theme=radical&show_icons=true](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api?username=wahajAliVerse&count_private=true&theme=radical&show_icons=true))
 
 ![Top Langs](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api/top-langs/?username=wahajAliVerse&layout=compact&theme=radical)
 
