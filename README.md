@@ -11,6 +11,8 @@
 
 ---
 
+![Metrics](./github-metrics.svg)
+
 
 ## GitHub Trophies 🏆
 
