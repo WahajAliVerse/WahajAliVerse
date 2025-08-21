@@ -1,0 +1,38 @@
+name: GitHub Metrics
+
+on:
+  # Roz subah 6 baje run hoga
+  schedule: 
+    - cron: "0 6 * * *"
+  # Jab bhi manually run karna ho
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Token with repo and user permissions
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Basic config
+          user: WahajAliVerse          # <-- apna GitHub username dalna
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Karachi
+
+          # Plugins enable karna
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
