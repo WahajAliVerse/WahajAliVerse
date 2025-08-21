@@ -16,6 +16,7 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=WahajAliVerse&theme=dark_lover&margin-w=4)]
 
+![Snake animation](https://github.com/wahajAliVerse/wahajAliVerse/blob/output/github-contribution-grid-snake.svg)
 
 
 
