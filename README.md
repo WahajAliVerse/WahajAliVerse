@@ -5,8 +5,10 @@
 
 ## 📊 GitHub Stats
 
-![Wahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahajAliVerse&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahajAliVerse&layout=compact&theme=radical)
+![Wahaj's GitHub stats](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api?username=wahajAliVerse&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api/top-langs/?username=wahajAliVerse&layout=compact&theme=radical)
+
 
 ---
 
