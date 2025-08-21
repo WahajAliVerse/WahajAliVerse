@@ -11,7 +11,8 @@
 
 ---
 
-![Metrics](./github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/WahajAliVerse/WahajAliVerse/main/github-metrics.svg)
+
 
 
 ## GitHub Trophies 🏆
