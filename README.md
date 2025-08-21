@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wahaj Ali 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Agentic+AI+Engineer+%26+Full+Stack+Developer;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
+[![Typing SVG](https://github-readme-stats-git-master-wahaj-alis-projects.vercel.app/api?username=wahajAliVerse&count_private=true&theme=radical&show_icons=true)
 
 
 ## 📊 GitHub Stats
