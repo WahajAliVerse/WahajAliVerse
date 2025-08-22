@@ -25,7 +25,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,fastapi,python,django,tailwind,redux,mongodb,postgresql,prisma,git,github,docker" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=openai" />
+  <!-- React Native Custom Icon -->
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" height="48" alt="React Native" />
+  <!-- Fastify Custom Icon -->
+  <img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" width="48" height="48" alt="Fastify" />
+  <!-- OpenAI Agents SDK Custom Badge -->
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 
