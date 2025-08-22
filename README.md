@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Wahaj…&font=Inter&size=48" />
+
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Wahaj Ali…&font=Inter&size=48" />
 </p>
 
 
