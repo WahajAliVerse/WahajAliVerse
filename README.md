@@ -20,6 +20,16 @@
 
 
 
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,fastapi,python,django,tailwind,redux,mongodb,postgresql,prisma,git,github,docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+
+
 ## GitHub Trophies 🏆
 
 [![trophy](https://github-trophies.vercel.app/?username=WahajAliVerse&theme=dark_lover&margin-w=4)]
