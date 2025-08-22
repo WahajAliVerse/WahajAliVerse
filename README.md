@@ -37,7 +37,7 @@
 
 ## GitHub Trophies 🏆
 
-[![trophy](https://github-trophies.vercel.app/?username=WahajAliVerse&theme=dark_lover&margin-w=4)]
+[![trophy](https://github-trophies.vercel.app/?username=WahajAliVerse&lover&margin-w=4&v=1)]
 
 
 
