@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=800&multiline=false&color=F97316,FACC15,10B981,3B82F6,8B5CF6,E11D48&vCenter=true&lines=Agentic+AI+Engineer+%26+Full+Stack+Developer;AI-First+Product+Strategist;Helping+Startups+Launch+%26+Scale+Faster;Building+Scalable+SaaS%2C+AI+%26+Automation+Solutions)](https://github.com/WahajAliVerse)
 
-## 📊 GitHub Stats
-
-![Wahaj's GitHub stats](https://github-stats-wahaj.vercel.app/api?username=wahajAliVerse&count_private=true&theme=radical&show_icons=true&v=1)
-
-![Top Langs](https://github-stats-wahaj.vercel.app/api/top-langs/?username=wahajAliVerse&layout=compact&theme=radical&count_private=true&v=1)
-
-
----
 
 ![Metrics](https://raw.githubusercontent.com/WahajAliVerse/WahajAliVerse/main/github-metrics.svg)
 
@@ -18,13 +10,6 @@
 ## GitHub Trophies 🏆
 
 [![trophy](https://github-trophies.vercel.app/?username=WahajAliVerse&theme=dark_lover&margin-w=4)]
-
-![Snake animation](https://github.com/wahajAliVerse/wahajAliVerse/blob/output/github-contribution-grid-snake.svg)
-
-
-
-[![Wahaj Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WahajAliVerse&radius=18&theme=github-dark&area=true&order=6&hide_title=false&custom_title=WahajAli's%20_Profile)](https://github.com/WahajAliVerse)
-
 
 
 
