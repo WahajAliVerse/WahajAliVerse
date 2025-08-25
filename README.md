@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+## ✍️ My Writings  
+- [Understanding the Inner Workings of LLMs](https://medium.com/@wahajAli20/understanding-the-inner-workings-of-large-language-models-llms-in-the-agentic-ai-era-1b5ee8f50e31)
 
 
 ## GitHub Trophies 🏆
