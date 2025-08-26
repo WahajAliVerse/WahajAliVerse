@@ -16,6 +16,10 @@
 </p>
 
 
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/WahajAliVerse.svg)](https://user-badge.committers.top/pakistan_private/WahajAliVerse)
+
+
+
 ![Metrics](https://raw.githubusercontent.com/WahajAliVerse/WahajAliVerse/main/github-metrics.svg)
 
 
