@@ -16,7 +16,8 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/pakistan_private/WahajAliVerse.svg)](https://user-badge.committers.top/pakistan_private/WahajAliVerse)
+[![committers.top badge](https://user-badge.committers.top/pakistan/WahajAliVerse.svg)](https://user-badge.committers.top/pakistan/WahajAliVerse)
+
 
 
 
