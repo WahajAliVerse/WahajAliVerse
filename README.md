@@ -16,7 +16,7 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/WahajAliVerse.svg)](https://user-badge.committers.top/pakistan/WahajAliVerse)
+
 
 
 
